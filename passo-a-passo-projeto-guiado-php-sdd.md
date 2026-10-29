@@ -289,3 +289,4 @@ A fase de convergência audita se a implementação em PHP/Laravel/MySQL (XAMPP)
 | **Infraestrutura Backend** | Tecnologia para Back-End | Laravel 11.x (MVC) + Eloquent | Engine InnoDB (Porta 3306) | Consumo via API Resources |
 | **Infraestrutura Frontend** | Tecnologia para Front-End | API RESTful Stateless | Servidor MySQL Local | React 18 + Vite + TypeScript 5 |
 | **Módulos Visuais & UX** | Especificação de Telas | Eloquent API Resources | Banco `gestao_fornecedores` | 4 Telas SPA (`/login`, `/fornecedores`...) |
+Pesquisado e desenvolvido por Gabriel Ferreira da Silva 

@@ -33,3 +33,4 @@ No Eloquent ORM, relacionamentos 1:N são mapeados via hasMany() e belongsTo(). 
 
 A governança do projeto segue rigorosamente o Spec-Driven Development (SDD), com suporte às diretrizes de IA via Laravel Boost (.ai/guidelines/\*) e a constituição técnica central do projeto mantida em memory/constitution.md (GitHub Spec Kit).
 
+Pesquisado e desenvolvido por Gabriel Ferreira da Silva 

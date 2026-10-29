@@ -169,3 +169,4 @@ A matriz abaixo comprova a rastreabilidade total entre as regras de negócio e o
 | **Integridade na Exclusão** | RN04 | Constraint restrictOnDelete() no MySQL e captura de exceção no Handler retornando HTTP 409\. |
 | **Autenticação de Operador** | RN05 | Middleware de autenticação (Sanctum ou Session) consultando a tabela usuarios no MySQL/XAMPP. |
 
+Pesquisado e desenvolvido por Gabriel Ferreira da Silva 

@@ -162,3 +162,4 @@ Para executar a solução localmente com o Apache/MySQL no XAMPP e os servidores
 * `php artisan serve`: Inicia a API RESTful do Laravel na porta 8000\.  
 * `npm run dev`: Inicia o servidor de desenvolvimento do Vite/React 18 na porta 5173\.
 
+Pesquisado e desenvolvido por Gabriel Ferreira da Silva 

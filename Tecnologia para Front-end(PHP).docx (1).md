@@ -198,3 +198,4 @@ Esta matriz comprova que a implementação da SPA React cumpre 100% dos requisit
 | **RN04 (Bloqueio de Exclusão)** | FornecedoresPage.tsx | DELETE \`/api/fornecedores/{id}\` | Captura de resposta HTTP 409 (Conflict) ao tentar remover fornecedor com produtos vinculados, exibindo alerta visual para o usuário. |
 | **RN05 (Autenticação Sanctum)** | ProtectedRoute.tsx / AuthContext.tsx | Bearer Token Injection / LocalStorage | Redirecionamento automático de requisições não autenticadas (HTTP 401\) diretamente para a página de login. |
 
+Pesquisado e desenvolvido por Gabriel Ferreira da Silva 
